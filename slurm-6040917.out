@@ -1,0 +1,44 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) 2023.01   2) StdEnv
+
+###############################################################################
+Hábrók Cluster
+Job 6040917 for user p285087
+Finished at: Wed Nov  8 22:59:14 CET 2023
+
+Job details:
+============
+
+Job ID              : 6040917
+Name                : oop
+User                : p285087
+Partition           : regularshort
+Nodes               : node109
+Number of Nodes     : 1
+Cores               : 1
+Number of Tasks     : 1
+State               : COMPLETED
+Submit              : 2023-11-08T22:59:06
+Start               : 2023-11-08T22:59:09
+End                 : 2023-11-08T22:59:14
+Reserved walltime   : 00:10:00
+Used walltime       : 00:00:05
+Used CPU time       : 00:00:02 (efficiency: 45.44%)
+% User (Computation): 91.55%
+% System (I/O)      :  8.45%
+Mem reserved        : 1G
+Max Mem (Node/step) : 0.00  (Node unknown, N/A)
+Full Max Mem usage  : 0.00 
+Total Disk Read     : 0.00 
+Total Disk Write    : 0.00 
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Hábrók in your publications:
+
+https://wiki.hpc.rug.nl/habrok/introduction/scientific_output
+
+################################################################################
